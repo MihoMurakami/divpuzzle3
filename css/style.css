@@ -15,9 +15,8 @@
 	top: 20px;
 	right: 20px;
 	background: #ffffff;
-	float: left;
 }
-.red-in1, .red-in2, .red-in3 {
+.p-box {
 	position: relative;
 	width: 40px;
 	height: 40px;
@@ -40,14 +39,16 @@
 	float: left;
 }
 .orange-box {
-	padding: 40px 0 0 40px;
+	position: relative;
+	top: 40px;
+	left: 40px;
 }
 .article-orange {
   width: 140px;
   height: 40px;
 	background: #ff863f;
 	border:  5px, solid, #ffffff;
-	margin: 10px;
+	margin-bottom: 10px;
 }
 /* footerここから */
 .footer-yellow {
